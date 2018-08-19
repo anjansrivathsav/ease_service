@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ease Service</string>
+    <string name="title_activity_list_view">ListView</string>
+</resources>
